@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 import { NewTodo } from './components/NewTodo';
-import { TodoList } from './components/TosoList';
+import { TodoList } from './components/TodoList';
 
 import { Todo } from './todo.models';
 
